@@ -46,15 +46,17 @@ p{
   padding:20px;
   font-family: Arial;
   font-size: 20px
+  
 
 }
+/*grid on projects page*/
 .floated_img{
     float:left;
     text-align: center;
-    padding: 0px 20px 0px 0px;
-
+    padding: 0px 40px 0px 0px;
 }
 
+/*js slideshow on index*/
 .picslide{
   text-align: center;
   padding: 10px 0px 0px 0px;
@@ -62,10 +64,12 @@ p{
 
 }
 
+/*modifies contact info on index*/
 .contactinfo{
   color:white;
   background: #3495FF;
-  padding:20px;
+  text-align: center;
+  display: block;
   font-family: Arial;
   font-size: 20px
 }
