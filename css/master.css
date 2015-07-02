@@ -57,4 +57,9 @@ p{
 
 .picslide{
   text-align: center;
+  padding: 10px 0px 0px 0px;
+  border-style: solid;
+  border-color: black;
+  border-width: 8px;
+  border-radius: 4px;
 }
